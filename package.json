@@ -1,0 +1,19 @@
+{
+  "name": "delnorcloader",
+  "version": "1.0.0",
+  "description": "This is a webpack loader for deleting notes and console",
+  "main": "delNorCLoader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiuto/delNorCLoader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiuto/delNorCLoader/issues"
+  },
+  "homepage": "https://github.com/Jiuto/delNorCLoader#readme"
+}
