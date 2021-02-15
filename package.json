@@ -1,19 +1,22 @@
 {
-  "name": "delnorcloader",
+  "name": "del-console-loader",
   "version": "1.0.0",
-  "description": "This is a webpack loader for deleting notes and console",
-  "main": "delNorCLoader.js",
+  "description": "This is a webpack loader for deleting console",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jiuto/delNorCLoader.git"
+    "url": "git+https://github.com/Jiuto/delConsoleLoader.git"
   },
-  "author": "crx",
+  "author": "Jiuto",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jiuto/delNorCLoader/issues"
+    "url": "https://github.com/Jiuto/delConsoleLoader/issues"
   },
-  "homepage": "https://github.com/Jiuto/delNorCLoader#readme"
+  "homepage": "https://github.com/Jiuto/delConsoleLoader#readme",
+  "dependencies": {
+    "loader-utils": "^2.0.0"
+  }
 }
